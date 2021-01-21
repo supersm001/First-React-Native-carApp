@@ -3,4 +3,4 @@ working with react-native
 
 preview of app
 
-![](VID-20210121-WA0002.mp4)
+![](https://drive.google.com/file/d/12oAnz3FkNZyqVWVeKFbH9dRaWmBHcqUV/view?usp=drivesdk)
